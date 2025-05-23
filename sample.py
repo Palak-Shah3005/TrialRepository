@@ -6,5 +6,6 @@ def main():
     result = square_number(user_input)
     print("The square of the number is:", result)
     print("Removed 2 lines and added this one to create merge conflict.")
+    print("Final change in second_branch")
 # Run the program
 main()
